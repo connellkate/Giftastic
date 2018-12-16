@@ -1,0 +1,39 @@
+body {
+background-color: rgb(26, 26, 26);
+
+}
+
+
+.searchbar {
+padding: 5px;
+margin: 5px;
+    background-color: teal;
+
+
+}
+.netButtons {
+    background-color: rgb(26, 26, 26);
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 1px;
+
+
+}
+.gifContainer {
+    background-color: brown;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    
+
+
+}
+
+
+.netflix-shows {
+    /* these will style buttons */
+    padding: 5px;
+    margin: 5px;
+    border-radius: 2px;
+}
